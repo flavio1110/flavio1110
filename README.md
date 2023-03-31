@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flavio1110&label=Profile%20views&color=0e75b6&style=flat" alt="flavio1110" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flavio1110" alt="flavio1110" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/flavio1110" target="blank"><img src="https://img.shields.io/twitter/follow/flavio1110?logo=twitter&style=for-the-badge" alt="flavio1110" /></a> </p>
 
 - 📝 I regularly write articles on [https://flaviosilva.dev](https://flaviosilva.dev)
@@ -12,6 +10,7 @@
 ### Latest 4 posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [📺 YouTube: Suggestions #1](https://fsilva.me/youtube-suggestions-1.html)
 - [📂 Go: Importig a CSV to PostgreSQL](https://fsilva.me/csv-import-go-postgresql.html)
 - [🔢 Go: Where is the decimal type?](https://fsilva.me/go-decimal-type.html)
