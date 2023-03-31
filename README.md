@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://flaviosilva.dev](https://flaviosilva.dev)
 
-### Latest 3 posts
+### Latest 4 posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
