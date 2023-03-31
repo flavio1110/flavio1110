@@ -10,7 +10,6 @@
 ### Latest 4 posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [📺 YouTube: Suggestions #1](https://fsilva.me/youtube-suggestions-1.html)
 - [📂 Go: Importig a CSV to PostgreSQL](https://fsilva.me/csv-import-go-postgresql.html)
 - [🔢 Go: Where is the decimal type?](https://fsilva.me/go-decimal-type.html)
