@@ -10,10 +10,10 @@
 ### Latest 4 posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🐉 got: Embracing my lazyness with my custom git CLI](https://fsilva.me/embracing-my-lazyness-with-a-custom-git-cli.html)
 - [📺 YouTube: Suggestions #1](https://fsilva.me/youtube-suggestions-1.html)
 - [📂 Go: Importig a CSV to PostgreSQL](https://fsilva.me/csv-import-go-postgresql.html)
 - [🔢 Go: Where is the decimal type?](https://fsilva.me/go-decimal-type.html)
-- [🧠 Go resources for beginners](https://fsilva.me/go-resources.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
