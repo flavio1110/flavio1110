@@ -10,10 +10,10 @@
 ### Latest 4 posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🔥 Test DB integrations with Testcontainers](https://fsilva.me/test-db-integrations-with-testcontainers.html)
 - [🔥 Improve your Frontend skills with Frontend Mentor](https://fsilva.me/improve-your-fe-skills-with-frontendmentor.html)
 - [🐉 got: Embracing my lazyness with my custom git CLI](https://fsilva.me/embracing-my-lazyness-with-a-custom-git-cli.html)
 - [📺 YouTube: Suggestions #1](https://fsilva.me/youtube-suggestions-1.html)
-- [📂 Go: Importig a CSV to PostgreSQL](https://fsilva.me/csv-import-go-postgresql.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
