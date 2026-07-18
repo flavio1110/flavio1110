@@ -10,10 +10,10 @@
 ### Latest 4 posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Building a propose-then-approve bot engine](https://fsilva.me/the-autonomous-bot-engine.html)
 - [🧹 Tidy First? By Kent Beck - My review and takeaways](https://fsilva.me/tidy-first-review.html)
 - [🐔 What happened with my project on the Rinha de Backend challenge](https://fsilva.me/rinha-de-backend.html)
 - [🔥 Test DB integrations with Testcontainers](https://fsilva.me/test-db-integrations-with-testcontainers.html)
-- [🔥 Improve your Frontend skills with Frontend Mentor](https://fsilva.me/improve-your-fe-skills-with-frontendmentor.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
