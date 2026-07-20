@@ -10,10 +10,10 @@
 ### Latest 4 posts
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Building a propose-then-approve bot engine](https://fsilva.me/the-autonomous-bot-engine.html)
-- [🧹 Tidy First? By Kent Beck - My review and takeaways](https://fsilva.me/tidy-first-review.html)
-- [🐔 What happened with my project on the Rinha de Backend challenge](https://fsilva.me/rinha-de-backend.html)
-- [🔥 Test DB integrations with Testcontainers](https://fsilva.me/test-db-integrations-with-testcontainers.html)
+- [🤖 Building a propose-then-approve bot engine](https://fsilva.me/posts/the-autonomous-bot-engine/)
+- [🧹 Tidy First? By Kent Beck - My review and takeaways](https://fsilva.me/posts/tidy-first-review/)
+- [🐔 What happened with my project on the Rinha de Backend challenge](https://fsilva.me/posts/rinha-de-backend/)
+- [🔥 Test DB integrations with Testcontainers](https://fsilva.me/posts/test-db-integrations-with-testcontainers/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
